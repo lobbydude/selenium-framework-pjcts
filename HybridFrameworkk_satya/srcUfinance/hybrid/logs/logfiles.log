@@ -1,0 +1,14 @@
+2017-10-22 11:57:23,073 INFO  [TestBed] Log initialization is done 
+2017-10-22 11:57:23,073 INFO  [TestBed] Loading the config property file 
+2017-10-22 11:57:23,073 INFO  [TestBed] config property file loaded 
+2017-10-22 11:57:23,073 INFO  [TestBed] Opening the firefox 
+2017-10-22 11:57:53,243 INFO  [TestBed] Chrome is opened and ready to load the url 
+2017-10-22 11:57:53,243 INFO  [TestBed] Doing browser setting 
+2017-10-22 11:57:54,402 INFO  [TestBed] browser setting is done 
+2017-10-22 11:57:54,402 INFO  [TestBed] Loading the url 
+2017-10-22 11:58:06,402 INFO  [TestBed] Completed the loading url 
+2017-10-22 11:58:06,476 INFO  [Module1TestCaseSet1] Started executing the Testcase1 of Module1 and Ste1 
+2017-10-22 11:58:06,589 INFO  [ActionDriver] Loading the UIMaps property file 
+2017-10-22 11:58:06,590 INFO  [ActionDriver] UImaps property file loaded 
+2017-10-22 11:58:06,609 INFO  [Module1TestCaseSet1] Started executing the Testcase2 of Module1 and Ste1 
+2017-10-22 11:58:06,609 INFO  [Module1TestCaseSet1] Completed execution of the Testcase2 of Module1 and Ste1 

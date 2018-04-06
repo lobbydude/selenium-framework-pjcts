@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Test Scenario1(failed)">
+    <classes>
+      <class name="zanmi.hybrid.pratice.TestActionDriver">
+        <methods>
+          <include name="testActionDriver"/>
+        </methods>
+      </class> <!-- zanmi.hybrid.pratice.TestActionDriver -->
+      <class name="zanmi.hybrid.pratice.GenerateLogs">
+        <methods>
+          <include name="InitilizeLogs"/>
+          <include name="StartLogs"/>
+        </methods>
+      </class> <!-- zanmi.hybrid.pratice.GenerateLogs -->
+    </classes>
+  </test> <!-- Test Scenario1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

@@ -1,0 +1,53 @@
+2017-11-07 10:16:18,274 INFO  [TestBed] Log initialization is done 
+2017-11-07 10:16:18,275 INFO  [TestBed] Loading the config property file 
+2017-11-07 10:16:18,275 INFO  [TestBed] config property file loaded 
+2017-11-07 10:16:18,281 INFO  [TestBed] Opening the firefox 
+2017-11-07 10:16:20,874 INFO  [TestBed] Chrome is opened and ready to load the url 
+2017-11-07 10:16:20,874 INFO  [TestBed] Doing browser setting 
+2017-11-07 10:16:22,005 INFO  [TestBed] browser setting is done 
+2017-11-07 10:16:22,005 INFO  [TestBed] Loading the url 
+2017-11-07 10:16:25,367 INFO  [TestBed] Completed the loading url 
+2017-11-07 10:16:25,378 INFO  [Module1TestCaseSet1] Started executing the Testcase1 
+2017-11-07 10:16:25,935 INFO  [ActionDriver] Loading the UIMaps property file 
+2017-11-07 10:16:25,935 INFO  [ActionDriver] UImaps property file loaded 
+2017-11-07 10:16:25,947 INFO  [ActionDriver] Finding an element with element locator -> xpath=//input[@id='uid'] 
+2017-11-07 10:16:25,998 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//input[@id='uid'] 
+2017-11-07 10:16:26,134 INFO  [ActionDriver] Entering a text on the webelement is successful 
+2017-11-07 10:16:26,281 INFO  [ActionDriver] Finding an element with element locator -> id=password 
+2017-11-07 10:16:26,320 INFO  [ActionDriver] Finding is successful with element locator -> id=password 
+2017-11-07 10:16:26,400 INFO  [ActionDriver] Entering a text on the webelement is successful 
+2017-11-07 10:16:26,448 INFO  [ActionDriver] Finding an element with element locator -> id=login 
+2017-11-07 10:16:26,495 INFO  [ActionDriver] Finding is successful with element locator -> id=login 
+2017-11-07 10:16:28,916 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:28,959 INFO  [ActionDriver] Finding an element with element locator -> xpath=//h3[text()='Products'] 
+2017-11-07 10:16:28,997 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//h3[text()='Products'] 
+2017-11-07 10:16:29,596 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:34,642 INFO  [ActionDriver] wait for element 
+2017-11-07 10:16:34,729 INFO  [ActionDriver] Finding an element with element locator -> xpath=//li[@id='nav-link-Products'] 
+2017-11-07 10:16:34,780 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//li[@id='nav-link-Products'] 
+2017-11-07 10:16:35,313 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:40,353 INFO  [ActionDriver] wait for element 
+2017-11-07 10:16:40,423 INFO  [ActionDriver] Finding an element with element locator -> xpath=//div[text()='TestProduct'] 
+2017-11-07 10:16:40,461 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//div[text()='TestProduct'] 
+2017-11-07 10:16:40,522 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:45,561 INFO  [ActionDriver] wait for element 
+2017-11-07 10:16:45,626 INFO  [ActionDriver] Finding an element with element locator -> xpath=//i[@class='soha-contract-open'] 
+2017-11-07 10:16:45,670 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//i[@class='soha-contract-open'] 
+2017-11-07 10:16:45,738 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:50,773 INFO  [ActionDriver] wait for element 
+2017-11-07 10:16:50,832 INFO  [ActionDriver] Finding an element with element locator -> xpath=//div[text()='Item Catalog'] 
+2017-11-07 10:16:50,875 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//div[text()='Item Catalog'] 
+2017-11-07 10:16:50,941 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:16:55,982 INFO  [ActionDriver] wait for element 
+2017-11-07 10:16:56,039 INFO  [ActionDriver] Finding an element with element locator -> xpath=//input[@id='side-item-accordion-search'] 
+2017-11-07 10:16:56,082 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//input[@id='side-item-accordion-search'] 
+2017-11-07 10:16:56,148 INFO  [ActionDriver] Entering a text on the webelement is successful 
+2017-11-07 10:17:01,180 INFO  [ActionDriver] wait for element 
+2017-11-07 10:17:01,244 INFO  [ActionDriver] Finding an element with element locator -> xpath=//div[text()='TestItem'] 
+2017-11-07 10:17:01,294 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//div[text()='TestItem'] 
+2017-11-07 10:17:01,362 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:17:06,387 INFO  [ActionDriver] wait for element 
+2017-11-07 10:17:06,449 INFO  [ActionDriver] Finding an element with element locator -> xpath=//a[@class='redlist-toolbar-btn redlist-button-type-addProduct'] 
+2017-11-07 10:17:06,500 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//a[@class='redlist-toolbar-btn redlist-button-type-addProduct'] 
+2017-11-07 10:17:06,568 INFO  [ActionDriver] Click is sucessful 
+2017-11-07 10:17:11,596 INFO  [ActionDriver] wait for element 
